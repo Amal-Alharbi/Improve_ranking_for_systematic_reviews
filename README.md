@@ -1,5 +1,5 @@
 # Systematic Reviews
-Improving Ranking for Systematic ReviewsUsing Query Adaptation
+Improving Ranking for Systematic Reviews Using Query Adaptation
 
 Lexical Statistics :  Log-Likelihood,  Chi-Squared and Odds-Ratio.
 
