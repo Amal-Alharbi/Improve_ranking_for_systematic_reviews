@@ -1,5 +1,5 @@
 # Systematic Reviews
-Using Query Adaptation to Improve the Identication of Relevant Studies for Systematic Reviews
+Improving Ranking for Systematic ReviewsUsing Query Adaptation
 
 Lexical Statistics :  Log-Likelihood,  Chi-Squared and Odds-Ratio.
 
@@ -9,3 +9,5 @@ Pre-processing:
 Pubmed stopwords removal 
 
 Lancaster stemmer: nltk.stem.lancaster.LancasterStemmer()
+
+**Paper: Amal Alharbi and Mark stevenson, 'Improving Ranking for Systematic ReviewsUsing Query Adaptation', In CLEF2019 Conference and Labs of the Evaluation forum.**
