@@ -10,4 +10,4 @@ Pubmed stopwords removal
 
 Lancaster stemmer: nltk.stem.lancaster.LancasterStemmer()
 
-**Paper: Amal Alharbi and Mark stevenson, 'Improving Ranking for Systematic ReviewsUsing Query Adaptation', In CLEF2019 Conference and Labs of the Evaluation forum.**
+**Paper: Amal Alharbi and Mark Stevenson, 'Improving Ranking for Systematic ReviewsUsing Query Adaptation', In CLEF2019 Conference and Labs of the Evaluation forum.**
